@@ -9,7 +9,7 @@ In this project, I was interested in looking at background check totals between 
 
 I included the bar chart below the main graphic to show that on a per capita basis, firearm background checks increased about 3-fold in the same time period. Thus, the increase in total background checks couldn’t be attributed to just population increase.
 
-#### Data and Acknowledgments
+### Data and Acknowledgments
 The original data in this visualization comes from the [FBI's National Instant Criminal Background Check System.](https://www.fbi.gov/services/cjis/nics)
 
 Buzzfeed News created a scraper that downloads the data, parses it, and produces a spreadsheet/CSV of the data. It was this aggregated data that I used for the visualization, and I give many thanks to the team over Buzzfeed for putting it together. Please check out the work they did with this dataset [here](https://github.com/BuzzFeedNews/nics-firearm-background-checks/), which served as an inspiration for my work.
